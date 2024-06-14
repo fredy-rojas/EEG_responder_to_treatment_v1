@@ -1,6 +1,6 @@
-# EEG_responder_to_treatment_v1
+# Identifying Responders to Spinal Manipulation Therapy Using EEG Patterns and Deep Learning
 
-## ResNetv2 - Feature Map Visualization:
+## ResNetv2 - Feature Map Visualization - Alpha brainwave signal:
 ![ResNetv2_Feature Map VIZ](_images/FR_ResNetv2_FeatureMap_v1.gif)
 
 Usually, digital images have 3 channels (Red, Green, and Blue), meaning that a pixel within an image will have 3 values. The ResNet architecture increases the number of channels (feature maps) in the images while decreasing the spatial dimensions (height and width of the pixels) to extract relevant patterns that help with the classification task.
