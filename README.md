@@ -5,7 +5,7 @@
 
 ### Objective:
 - To determine if ResNet can be used as a prognostic tool for identifying individuals who are likely to respond positively (reduce pain levels) to care.
-  - Providing this type of information beforehand to practitioners can help them in the decision-making process to design care plans for patients, improve patient outcomes, and reduce healthcare costs.
+  - Providing this type of information beforehand to clinical practitioners can help them in the decision-making process to design care plans for patients, improve patient outcomes, and reduce healthcare costs.
 
 ### Figure Description:
 - The image shows a trained ResNet architecture processing EEG topoplots of two patients, sID_23 and sID_17. On the left, you can see the EEG topoplots (each topoplot represents 2 seconds of EEG recording), and on the right, the probability score output. A probability score above 0.5 indicates that the subject is likely to respond positively to the care plan.
